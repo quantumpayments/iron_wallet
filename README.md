@@ -14,7 +14,7 @@ creates a wallet with
 
 # workbot.sh
 
-create.sh <database> <wallet> <workbot>
+    workbot.sh <database> <wallet> <workbot>
 
 creates a wallet with
 
